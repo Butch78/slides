@@ -27,4 +27,4 @@ This starter helps you manage multiple **Slidev** presentations in a single mono
 
 ## 📦 Demo
 
-Check out the live demo: https://leochiu-a.github.io/slidev-workspace-starter/
+Check out the live demo: https://butch78.github.io/slides/

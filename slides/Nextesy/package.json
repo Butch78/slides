@@ -1,0 +1,16 @@
+{
+  "name": "nextesy",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --base /nextesy/",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "catalog:",
+    "@slidev/theme-default": "catalog:",
+    "@slidev/theme-seriph": "catalog:",
+    "vue": "catalog:"
+  }
+}
