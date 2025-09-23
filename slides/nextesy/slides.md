@@ -96,7 +96,7 @@ transition: fade-out
 
 ## Solution
 
-<div v-click="2"class="mt-4 grid grid-cols-4 gap-2">
+<div v-click="2" class="mt-4 grid grid-cols-4 gap-2">
 
 
 <div v-click="3" class="bg-gray-100 dark:bg-gray-800 p-2 rounded text-center">
