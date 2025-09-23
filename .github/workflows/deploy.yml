@@ -37,6 +37,8 @@ jobs:
       - name: Build all slides and preview app as index
         run: |
           pnpm build
+        env:
+          BASE_PATH: /slides
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
