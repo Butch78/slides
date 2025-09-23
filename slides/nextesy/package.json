@@ -11,6 +11,7 @@
     "@slidev/cli": "catalog:",
     "@slidev/theme-default": "catalog:",
     "@slidev/theme-seriph": "catalog:",
+    "slidev-addon-excalidraw": "^1.0.4",
     "vue": "catalog:"
   }
 }
