@@ -10,6 +10,11 @@
   "dependencies": {
     "slidev-workspace": "^0.1.10"
   },
+  "pnpm": {
+    "overrides": {
+      "vite": "npm:rolldown-vite@latest"
+    }
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
