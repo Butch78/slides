@@ -3,8 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build",
-    "dev": "slidev --base /nextesy/",
+    "build": "slidev build --base /slides/nextesy/",
+    "dev": "slidev --base /slides/nextesy/",
     "export": "slidev export"
   },
   "dependencies": {
